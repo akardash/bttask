@@ -1,0 +1,16 @@
+.nav {
+	margin: 10px 0;
+}
+p {
+	font-size: 20px;
+}
+table {
+	text-align: center;
+}
+.special {
+	background-color: green;
+	color: yellow;
+}
+.year {
+	text-decoration: underline;
+}
